@@ -1,0 +1,133 @@
+
+
+
+.bg{
+    background-image: url("https://img.freepik.com/free-photo/flat-lay-desk-with-laptop-glasses_23-2148284275.jpg?t=st=1725792756~exp=1725796356~hmac=0f265da7511415e10a66144ad6e1bc33d72249bfb0846b37255dcb369dbfb3b2&w=740");
+    height: 80vh;
+    width:70vw;
+    background-size: cover;
+    margin-top: 70px;
+    
+}
+.bg-container{
+    background-color:#75a3a3;
+
+}
+.intro{
+    font-family: monospace;
+    font-size: 36px;
+    padding-left: 0px;
+    text-align: center;
+    color: black;
+    font-weight: 200px;
+}
+
+.name{
+    font-family:courier;
+    font-size: 55px;
+    font-weight:bold;
+    padding-left: 15px;
+    text-align: center;
+    
+    color: white;
+}
+.subpara{
+    font-family: sans-serif;
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+.vimg{
+    width: 55px;
+    height: 55px;
+    padding: 11px;
+    margin-left: 0px;
+}
+#navitem{
+    font-family: Helvetica;
+    color: #323f4b;
+}
+#navitem01{
+    font-family: Helvetica;
+    color: #323f4b;
+    
+}
+
+#navitem1{
+    font-family: Helvetica;
+    color: #323f4b;
+    
+}
+#navitem2{
+    font-family: Helvetica;
+    color: #323f4b;
+}
+#navitem3{
+    font-family: Helvetica;
+    color: #323f4b;
+}
+
+.bg-about{
+    background-color: #ffffff;
+}
+.edu-head{
+    color: beige ;
+    font-family:'Times New Roman', Times, serif;
+    font-size:35px;
+    font-style: italic;
+}
+
+.about-bg{
+    background-image: linear-gradient(to right, #D8B5FF ,#1EAE98);
+    background-color: #ffffff;
+    border-radius: 30px;
+    height: 280px;
+    width: 87%;
+    
+}
+.about-para{
+    color: #000000;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 15px;
+    margin-left: 9px;
+    margin-top: 40px;
+    
+
+}
+.list-para{
+    font-size: 18px;
+    color: black;
+    font-weight: 450;
+
+}
+.tech-skills{
+    color:black;
+    font-size: 19px;
+    font-weight: 400;
+    margin-top: 8px;
+
+}
+.span-tech{
+    color: #323f4b;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 19px;
+    text-decoration: underline;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.lang-space{
+    margin: auto;
+}
+.edu-bg{
+    
+    background-image:linear-gradient(to right,#7F7FD5,#91EAE4);
+    height: 270px;
+    width:60%;
+    border-radius:15px;
+    padding:8px;
+    margin-left:15px;
+}
